@@ -7,7 +7,7 @@ B.Tech in Artificial Intelligence & Data Science, passionate about turning data 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,oracle,postgresql,mysql,pandas,numpy,matplotlib,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,github,vscode,jupyter,excel" />
 </p>
 
 **Analytics:** Excel • Power BI • DAX • Pandas • NumPy • EDA • Data Cleaning • Data Visualization
@@ -23,4 +23,5 @@ B.Tech in Artificial Intelligence & Data Science, passionate about turning data 
 🐍 Python-based Data Solutions
 
 ### 📫 Connect
- [Email](mailto:ishamankar19@gmail.com)
+
+[LinkedIn](YOUR_LINKEDIN) • [Email](mailto:YOUR_EMAIL)
