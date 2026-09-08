@@ -7,7 +7,7 @@ B.Tech in Artificial Intelligence & Data Science, passionate about turning data 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,pandas,numpy,matplotlib" />
 </p>
 
 **Analytics:** Excel • Power BI • DAX • Pandas • NumPy • EDA • Data Cleaning • Data Visualization
