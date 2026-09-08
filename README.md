@@ -30,5 +30,4 @@ B.Tech in Artificial Intelligence & Data Science, passionate about turning data 
 🐍 Python-based Data Solutions
 
 ### 📫 Connect
-
-[LinkedIn](YOUR_LINKEDIN) • [Email](mailto:YOUR_EMAIL)
+• [Email](mailto:ishamankar19@gmail.com)
