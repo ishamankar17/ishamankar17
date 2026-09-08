@@ -9,7 +9,7 @@ B.Tech in Artificial Intelligence & Data Science, passionate about turning data 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,github,vscode,jupyter" />
 </p>
 
 <p align="left">
