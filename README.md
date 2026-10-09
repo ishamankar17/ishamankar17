@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20Machine%20Learning-2EA44F?style=for-the-badge" alt="Open to Work"/>
 </p>
 
-B.Tech graduate in Artificial Intelligence & Data Science (CGPA 8.42), focused on turning raw data into clear, decision-ready insights through analysis, dashboards, and machine learning.
+B.Tech graduate in Artificial Intelligence & Data Science, focused on turning raw data into clear, decision-ready insights through analysis, dashboards, and machine learning.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,docker,github,vscode,jupyter" />
@@ -24,9 +24,8 @@ B.Tech graduate in Artificial Intelligence & Data Science (CGPA 8.42), focused o
 **Analytics:** SQL • Power BI • DAX • Excel • Pandas • NumPy • EDA • Data Cleaning
 **Machine Learning:** Scikit-learn • Classification • Regression • K-Means • Feature Engineering
 
-🌱 **Currently learning:** Data Engineering (PySpark • BigQuery • dbt • Airflow)
 
-### 📂 Featured Projects
+### Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
