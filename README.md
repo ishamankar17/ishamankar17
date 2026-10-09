@@ -22,6 +22,7 @@ B.Tech graduate in Artificial Intelligence & Data Science, focused on turning ra
 </p>
 
 **Analytics:** SQL • Power BI • DAX • Excel • Pandas • NumPy • EDA • Data Cleaning
+
 **Machine Learning:** Scikit-learn • Classification • Regression • K-Means • Feature Engineering
 
 
