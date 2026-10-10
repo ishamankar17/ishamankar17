@@ -13,7 +13,7 @@ B.Tech graduate in Artificial Intelligence & Data Science. I turn raw data into 
 - **BI & Visualization:** Power BI, DAX, Tableau
 - **Databases & Tools:** Oracle SQL, PostgreSQL, Git, GitHub
 - **Core Areas:** Data cleaning, validation, exploratory analysis, KPI reporting
-
+- **Machine Learning:** Scikit-learn, Classification, Regression, K-Means, Feature Engineering
 ---
 
 ## Projects
