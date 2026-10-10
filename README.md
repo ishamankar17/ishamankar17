@@ -4,10 +4,7 @@
 
 **Data Analyst | SQL · Python · Power BI · Excel**
 
-B.Tech in Artificial Intelligence & Data Science at SB Jain Institute of Technology, Management & Research, Nagpur.
-
-I work with data cleaning, SQL analysis, reporting, and dashboard development to turn data into actionable insights.
-
+B.Tech graduate in Artificial Intelligence & Data Science. I turn raw data into clear, decision-ready insights through SQL analysis, dashboards, and machine learning. Open to Data Analyst and Machine Learning roles.
 ---
 
 ## Skills
