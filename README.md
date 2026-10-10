@@ -5,8 +5,8 @@
 **Data Analyst | SQL · Python · Power BI · Excel**
 
 B.Tech graduate in Artificial Intelligence & Data Science. I turn raw data into clear, decision-ready insights through SQL analysis, dashboards, and machine learning. Open to Data Analyst and Machine Learning roles.
----
 
+---
 ## Skills
 
 - **Analytics:** SQL, Python, Excel
