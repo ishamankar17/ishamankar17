@@ -1,39 +1,32 @@
 # Isha Mankar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&width=500&height=40&lines=Data+Analyst;Machine+Learning;Data+Science" alt="Data Analyst | Machine Learning | Data Science" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2E9EF7&width=450&height=28&lines=Data+Analyst;Machine+Learning;Data+Science" alt="Data Analyst | Machine Learning | Data Science" />
 
-B.Tech graduate in Artificial Intelligence & Data Science. I turn raw data into clear, decision-ready insights through SQL analysis, dashboards, and machine learning. Open to Data Analyst and Machine Learning roles.
+**Data Analyst | SQL · Python · Power BI · Excel**
 
----
+B.Tech in Artificial Intelligence & Data Science at SB Jain Institute of Technology, Management & Research, Nagpur.
 
-## Technical Skills
-
-| Area | Tools & Techniques |
-|---|---|
-| **Data Analytics** | SQL (Oracle, MySQL, PostgreSQL), Power BI, DAX, Excel, EDA, Data Cleaning |
-| **Python** | Pandas, NumPy, Matplotlib, Jupyter |
-| **Machine Learning** | Scikit-learn, Classification, Regression, K-Means, Feature Engineering |
-| **Tools** | Git, GitHub, Docker, VS Code |
+I work with data cleaning, SQL analysis, reporting, and dashboard development to turn data into actionable insights.
 
 ---
 
-## Featured Projects
+## Skills
 
-### [Walmart Retail Analytics](https://github.com/ishamankar17/walmart-retail-analytics)
-End-to-end sales analysis of 421K+ Walmart records.
-**Tools:** Oracle SQL, Power BI, Python
+- **Analytics:** SQL, Python, Excel
+- **BI & Visualization:** Power BI, DAX, Tableau
+- **Databases & Tools:** Oracle SQL, PostgreSQL, Git, GitHub
+- **Core Areas:** Data cleaning, validation, exploratory analysis, KPI reporting
 
-### [Customer Analytics SQL Project](https://github.com/ishamankar17/customer-analytics-sql-project)
-Customer segmentation and retention analysis.
-**Tools:** SQL, Power BI
+---
 
-### [A/B Testing for Marketing Campaign](https://github.com/ishamankar17/ab-testing-for-marketing-campaign)
-Statistical analysis and dashboard testing whether the Test campaign's gains are statistically significant.
-**Tools:** Python, Power BI
+## Projects
 
-### [Weather & Air Quality Data Pipeline](https://github.com/ishamankar17/weather-air-quality-data-pipeline)
-Learning project: hourly Pune weather and air-quality pipeline with a Streamlit dashboard.
-**Tools:** Python, PySpark, BigQuery, dbt, Airflow
+| Project | Description | Tools |
+|---|---|---|
+| [Walmart Retail Analytics](https://github.com/ishamankar17/walmart-retail-analytics) | End-to-end sales analysis of 421K+ Walmart records | Oracle SQL, Power BI, Python |
+| [Customer Analytics SQL Project](https://github.com/ishamankar17/customer-analytics-sql-project) | Customer segmentation and retention analysis | SQL, Power BI |
+| [A/B Testing for Marketing Campaign](https://github.com/ishamankar17/ab-testing-for-marketing-campaign) | Statistical analysis and dashboard testing whether the Test campaign's gains are statistically significant | Python, Power BI |
+| [Weather & Air Quality Data Pipeline](https://github.com/ishamankar17/weather-air-quality-data-pipeline) | Learning project: hourly Pune weather and air-quality pipeline with a Streamlit dashboard | Python, PySpark, BigQuery, dbt, Airflow |
 
 ---
 
