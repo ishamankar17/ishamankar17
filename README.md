@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2E9EF7&width=450&height=28&lines=Data+Analyst;Machine+Learning;Data+Science" alt="Data Analyst | Machine Learning | Data Science" />
 
-**Data Analyst | SQL · Python · Power BI · Excel**
-
 B.Tech graduate in Artificial Intelligence & Data Science. I turn raw data into clear, decision-ready insights through SQL analysis, dashboards, and machine learning. Open to Data Analyst and Machine Learning roles.
 
 ---
